@@ -10,9 +10,9 @@ Here come the links to all the materials:
   - image -> cluster - https://github.com/IBM/openshift-on-ibm-cloud-workshops/blob/master/6-existing-image.md
   - github -> cluster - https://github.com/IBM/openshift-on-ibm-cloud-workshops/blob/master/7-github.md
 - instructions for the strech goal - http://ibm.biz/202101-kube-stretch 
-- the presentation - *coming*
+- [the presentation - pdf](202101-Containers-101-openshift.pdf)
 - the survey - http://ibm.biz/202101-kube-survey
 - the recording of the workshop - https://www.crowdcast.io/e/red-hat-openshift-world (available right after the live session ends)
-- join me on discord for 1:1 - https://discord.gg/9vzsMANe (the link is valid only till Friday morning)
+- join me on discord for 1:1 - https://discord.gg/5ZwfnH3U (the link is valid only till 1/23/2021)
 
 Follow me on Twitter here: https://twitter.com/blumareks
